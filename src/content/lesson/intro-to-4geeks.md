@@ -19,7 +19,7 @@ You are here to develop your coding skills to a point where you can be useful to
 
 ## What you did not know
 
-You are also here because you need help, not only technical help, but also spiritual help, and I say this in the most pragmatic way possible.
+You are also here because you need help, not only technical help, but also spiritual help and I say this in the most pragmatic way possible.
 
 > The biggest wall to becoming a developer is not in the syllabus or content but in your mind.
 
